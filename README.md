@@ -1,4 +1,4 @@
-# Task manager
+# Calculator
 A new iOS project.
 
 ## Getting Started
